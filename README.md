@@ -1,6 +1,6 @@
 # Two-Axis Pen Plotter
 
-
+![Iamge](docs/Image.PNG)
 
 Thanks for checking out this project! To run the plotter, you’ll need to do two things:
 
@@ -10,3 +10,7 @@ Thanks for checking out this project! To run the plotter, you’ll need to do tw
 ## Path Generation Details
 
 The path generation pipeline uses OpenCV to extract contours from an input image. These contours are then converted into motion commands using inverse kinematics, ensuring the pen moves smoothly and accurately along the desired path.
+
+## Solidwork  
+
+You can find the 3D modeling file under 3D
